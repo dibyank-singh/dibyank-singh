@@ -70,7 +70,7 @@
 
 </td></tr></table> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyank-singh&show_icons=true&locale=en&layout=compact" alt="dibyank-singh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyank-singh&show_icons=true&locale=en&layout=compact" alt="dibyank-singh" /></p>
 <br/>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyank-singh&show_icons=true&locale=en" alt="dibyank-singh" /></p>
 
