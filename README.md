@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpapercave.com/wp/wp8904080.jpg" align="center" style="width: 100%", "height":"60%" />
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="center" style="width: 100%", height="350" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Dibyank Kumar Singh</h1>
