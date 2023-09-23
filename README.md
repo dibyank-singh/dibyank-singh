@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://divyankportfolio.netlify.app/](https://divyankportfolio.netlify.app/)
-
 - 📝 I regularly write articles on [@web_dev_Dk](@web_dev_Dk)
 
 - 📫 How to reach me **dibyankkumarsingh@gmail.com**
